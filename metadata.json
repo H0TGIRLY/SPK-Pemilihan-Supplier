@@ -1,0 +1,6 @@
+{
+  "name": "SPK Supplier Terbaik",
+  "description": "Sistem Pendukung Keputusan Pemilihan Supplier Terbaik menggunakan metode AHP dan TOPSIS berbasis real-time dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
